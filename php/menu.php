@@ -24,7 +24,7 @@
       <li>
         <a href="#">Proveedores</a>
         <ul class="menu_vertical">
-          <li><a href="#">Registrar proveedor</a></li>
+          <li><a href="../html/registrarProveedor.php">Registrar proveedor</a></li>
           <li><a href="#">Eliminar proveedor</a></li>
           <li><a href="#">Modificar proveedor</a></li>
         </ul>

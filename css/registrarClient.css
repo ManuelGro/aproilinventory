@@ -89,3 +89,8 @@ td {
   border-bottom: 1px solid #fff;
   border-top: 1px solid transparent;
 }
+
+.saltolinea{
+  margin-bottom: 20px;
+  width: 100%;
+}
